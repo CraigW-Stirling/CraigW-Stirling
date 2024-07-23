@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Craig Stirling
 
-<!--
-**CraigW-Stirling/CraigW-Stirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 Hi, I'm Craig Stirling<br><br>I'm currently working through a Data Science Apprenticeship.<br>Setting up this profile is part of that, to engage with the community and showcase my work.<br><br>I am enjoying learning key tools like Python, Data Science techniques, and ways to apply Machine Learning principles to business problems.<br><br>I have 20+ years experience as a Data Analyst for a major UK Telco.<br><br>Outside of work, I enjoy hiking, exercise, drawing, reading and gaming.
